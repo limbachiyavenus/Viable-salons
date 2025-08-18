@@ -128,7 +128,7 @@
         <span>FACEBOOK</span>
     </a>
     <a href="facebook.com/share/15VaTmA56u/?mibextid=JRoKGi" class="link-btn" target="_blank">
-        <img src="img\whatsapp-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
+        <img src="Viable salons/img/whatsapp-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
         <i class="fab fa-whatsapp"></i>
         <span>whatsapp</span>
     </a>
