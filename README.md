@@ -117,7 +117,7 @@
 
     <!-- Main Link Buttons with Icons -->
     <a href="https://www.instagram.com/viable_salons_naranpura/profilecard/?igsh=YXZocXl5bWo2ZDht" class="link-btn" target="_blank">
-        <img src="" class="btn-icon" alt="Store Icon" width="20%" />
+        <img src="Viable salons/img/instagram-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
         <i class="fab fa-instagram"></i>
         <span>INSTAGRAM</span>
     </a>
