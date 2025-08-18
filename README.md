@@ -123,7 +123,7 @@
     </a>
 
     <a href="https://www.facebook.com/Viablesalon/" class="link-btn" target="_blank">
-        <img src="img\facebook-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
+        <img src="Viable salons/img/facebook-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
         <i class="fab fa-facebook-f"></i>
         <span>FACEBOOK</span>
     </a>
