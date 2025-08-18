@@ -146,7 +146,7 @@
         <span>LOCATION</span>
     </a>
     <a href="9925505557." class="link-btn" target="_blank">
-        <img src="img\phonecall .png" class="btn-icon" alt="Store Icon" width="20%" />
+        <img src="Viable salons/img/whatsapp-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
         <i class="fas fa-map-marker-alt"></i>
         <span>+91 9925505557</span>
     </a>
