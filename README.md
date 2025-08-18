@@ -110,7 +110,7 @@
 
 <body>
 
-    <img src="img\logo_-removebg-preview.png" alt="Viable salons (Naranpura)" class="logo" />
+    <img src="Viable salons/img/logo_-removebg-preview.png" alt="Viable salons (Naranpura)" class="logo" />
 
     <h1>Viable salons (Naranpura)</h1>
     <p></p>
