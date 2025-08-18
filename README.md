@@ -16,7 +16,7 @@
         body {
             margin: 0;
             font-family: 'Open Sans', sans-serif;
-            background: url("Viable salons/img/background.png") no-repeat center center fixed;
+            background: url("https://github.com/limbachiyavenus/Viable-salons/blob/abaf75593d85a75bb1c7dbc8ce63cbda890b8a02/Viable%20salons/img/logo_-removebg-preview.png") no-repeat center center fixed;
             background-size: cover;
             color: #000;
             text-align: center;
