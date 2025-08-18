@@ -141,7 +141,7 @@
 
 
     <a href="https://www.google.com/maps/@23.0595487,72.547741,17z?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D" class="link-btn" target="_blank">
-        <img src="img\location-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
+        <img src="Viable salons/img/location-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
         <i class="fas fa-map-marker-alt"></i>
         <span>LOCATION</span>
     </a>
