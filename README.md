@@ -134,7 +134,7 @@
     </a>
 
     <a href="https://www.youtube.com/@Viablesalons_naranpura_Ahemdab" class="link-btn" target="_blank">
-        <img src="img\youtube-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
+        <img src="Viable salons/img/youtube-removebg-preview.png" class="btn-icon" alt="Store Icon" width="20%" />
         <i class="fab fa-youtube"></i>
         <span>YOUTUBE</span>
     </a>
