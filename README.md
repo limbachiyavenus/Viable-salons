@@ -156,7 +156,7 @@
     <div class="socials">
         <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
         <a href="#" target="_blank"><i class="fas fa-phone"></i></a>
-        <a href="#" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        <a href="https://wa.me/9925505557" target="_blank"><i class="fab fa-whatsapp"></i></a>
         <a href="#" target="_blank"><i class="fas fa-map-marker-alt"></i></a>
     </div>
 
